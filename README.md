@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HHDVasishtPranav
-- 👀 I’m interested in Computer sciences
+- 👀 I’m interested in learning and internships
 - 🌱 I’m currently learning Data Structures 
 - 📫 Reach me through vasishtpranav.udathu@gmail.com 
 
