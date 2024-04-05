@@ -79,9 +79,6 @@ technical expertise to real-world challenges and make a meaningful impact.</p>
     <a href="#" target="_blank" rel="noreferrer" class="ml-ds-icon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40">
     </a>
-    <a href="#" target="_blank" rel="noreferrer" class="ml-ds-icon">
-  <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="40" height="40">
-</a>
 <a href="#" target="_blank" rel="noreferrer" class="ml-ds-icon">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40">
 </a>
