@@ -147,7 +147,6 @@ content aims to support users in enhancing their verbal reasoning skills, foster
 language proficiency.
 - [CampusConnect](https://github.com/HHDVasishtPranav/CampusConnect): Campus Connect is an anonymous chat application designed to facilitate communication among students from diverse universities. With its intuitive interface and secure login system using organization email addresses, users can engage in meaningful conversations with peers across various institutions, including SRMAP, IIT, VIT, and more.
 
-- 
 ### Get in Touch
 
 Let's connect and collaborate!
